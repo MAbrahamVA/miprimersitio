@@ -1,0 +1,16 @@
+*{
+    background: #03fee1;
+    color: rgb(6, 134, 245);
+}
+
+h1{
+    background: #ffffff;
+    color: rgb(255, 30, 0);
+    font-size: 3rem;
+    text-align: center;
+}
+h1:hover{
+    background: blue;
+    color: black;
+    font-size: 2rem;
+}
